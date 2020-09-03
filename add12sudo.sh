@@ -24,10 +24,10 @@ sudo git clone -b 12.0 https://github.com/oca/web
 sudo git clone -b 12.0 https://github.com/OCA/product-variant
 sudo git clone -b 12.0 https://github.com/OCA/website
 
-sudo git clone -b 12.0 https://github.com/odoomrp/odoomrp-utils.git
-sudo git clone -b 12.0 https://github.com/odoomrp/odoomrp-wip
+# sudo git clone -b 12.0 https://github.com/odoomrp/odoomrp-utils.git
+# sudo git clone -b 12.0 https://github.com/odoomrp/odoomrp-wip
 
-sudo git clone -b 12.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
+# sudo git clone -b 12.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
 
 # sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-account-closing
 # sudo git clone -b 8.0 https://github.com/open-synergy/opnsynid-account-invoicing
